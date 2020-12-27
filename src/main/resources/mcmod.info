@@ -1,0 +1,16 @@
+[
+{
+  "modid": "innerworks",
+  "name": "Inner: Works",
+  "description": "Bunch of crazy high-tech shenanigans",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Private K"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
